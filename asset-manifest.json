@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kendollcastro/tesla-clone-reactjs-practice/static/css/main.add4a477.chunk.css",
+    "main.js": "/kendollcastro/tesla-clone-reactjs-practice/static/js/main.3e73ee99.chunk.js",
+    "main.js.map": "/kendollcastro/tesla-clone-reactjs-practice/static/js/main.3e73ee99.chunk.js.map",
+    "runtime-main.js": "/kendollcastro/tesla-clone-reactjs-practice/static/js/runtime-main.dfe45c51.js",
+    "runtime-main.js.map": "/kendollcastro/tesla-clone-reactjs-practice/static/js/runtime-main.dfe45c51.js.map",
+    "static/js/2.d805f734.chunk.js": "/kendollcastro/tesla-clone-reactjs-practice/static/js/2.d805f734.chunk.js",
+    "static/js/2.d805f734.chunk.js.map": "/kendollcastro/tesla-clone-reactjs-practice/static/js/2.d805f734.chunk.js.map",
+    "index.html": "/kendollcastro/tesla-clone-reactjs-practice/index.html",
+    "static/css/main.add4a477.chunk.css.map": "/kendollcastro/tesla-clone-reactjs-practice/static/css/main.add4a477.chunk.css.map",
+    "static/js/2.d805f734.chunk.js.LICENSE.txt": "/kendollcastro/tesla-clone-reactjs-practice/static/js/2.d805f734.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe45c51.js",
+    "static/js/2.d805f734.chunk.js",
+    "static/css/main.add4a477.chunk.css",
+    "static/js/main.3e73ee99.chunk.js"
+  ]
+}
